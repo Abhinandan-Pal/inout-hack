@@ -16,4 +16,6 @@ npm install
 
 `npm start`
 
-3. Goto the web address through Chrome/Firefox
+3. Goto the web address through Chrome/Firefox.
+
+4. Wear a VR headdset and open it.
